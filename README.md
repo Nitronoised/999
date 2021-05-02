@@ -3,3 +3,4 @@
 
 ### Features to add:
 - Hovering footer with animations
+- Change the size of footer elements
